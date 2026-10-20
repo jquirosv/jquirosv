@@ -35,7 +35,7 @@ A full-stack web platform for an arts education institution, combining a public 
 
 [Visit the website](https://cimneinternational.com/)
 
-### ChordStream
+### [ChordStream](https://github.com/jquirosv/ChordStream-Portfolio)
 
 An Android songbook for musicians to organize, edit, and perform songs, with a local library and collaborative group features.
 
@@ -45,6 +45,16 @@ An Android songbook for musicians to organize, edit, and perform songs, with a l
 - Accounts, groups, and synchronization through a PHP/MySQL API.
 
 **Built with:** Dart, Flutter, Provider, SQLite, PHP, and MySQL.
+
+<p>
+  <a href="https://github.com/jquirosv/ChordStream-Portfolio">
+    <img src="https://raw.githubusercontent.com/jquirosv/ChordStream-Portfolio/main/docs/assets/00_portada_chordstream.png" alt="ChordStream: Android library, live reader, and music editor" width="320">
+  </a>
+</p>
+
+[Project showcase](https://github.com/jquirosv/ChordStream-Portfolio) ·
+[Architecture](https://github.com/jquirosv/ChordStream-Portfolio/blob/main/docs/ARCHITECTURE.md) ·
+[Engineering notes](https://github.com/jquirosv/ChordStream-Portfolio/blob/main/docs/TECHNICAL_NOTES.md)
 
 ---
 
@@ -67,10 +77,12 @@ Plataforma web para una institución de formación artística. Integra el sitio 
 
 [Visitar el sitio web](https://cimneinternational.com/)
 
-### ChordStream
+### [ChordStream](https://github.com/jquirosv/ChordStream-Portfolio)
 
 Cancionero digital para Android con edición de letras y acordes, transposición, tablaturas, setlists y lectura con desplazamiento automático. Incluye biblioteca local, importación y exportación de respaldos, compatibilidad con ChordPro y funciones colaborativas mediante una API.
 
 **Tecnologías:** Dart, Flutter, Provider, SQLite, PHP y MySQL.
+
+[Ver ficha pública del proyecto](https://github.com/jquirosv/ChordStream-Portfolio)
 
 </details>
