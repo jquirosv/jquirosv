@@ -2,7 +2,9 @@
 
 **Junior Software Developer · Software Engineering Student · Costa Rica**
 
-I build web and Android applications, working across interfaces, APIs, and databases. My projects include an institutional web platform and a digital songbook for musicians.
+I build web and Android applications, working across interfaces, APIs, and databases. My projects include an institutional web platform, a digital songbook for musicians, and a native Android music player.
+
+[LinkedIn](https://www.linkedin.com/in/jquirosv/)
 
 ## About me
 
@@ -12,13 +14,17 @@ I build web and Android applications, working across interfaces, APIs, and datab
 
 ## Technologies
 
+Technologies used in my projects:
+
 | Area | Technologies |
 | --- | --- |
 | Web | JavaScript, HTML, CSS, React, Next.js, Tailwind CSS |
-| Mobile | Dart, Flutter, Provider |
-| Backend | Node.js, PHP, Prisma |
+| Mobile | Kotlin, Jetpack Compose, Material 3, Dart, Flutter, Provider |
+| Android platform | Media3, WorkManager, coroutines, MediaStore, Android Keystore |
+| Backend | Python, Flask, Node.js, PHP, Prisma |
 | Databases | MySQL, SQLite |
-| Tools | Git, Docker |
+| Testing | JUnit, Robolectric, Compose tests, Python unittest |
+| Tools and delivery | Git, Gradle, Docker, GitHub Actions |
 
 ## Featured projects
 
@@ -43,6 +49,27 @@ A full-stack web platform for an arts education institution, combining a public 
 [Visit the website](https://cimneinternational.com/) ·
 [Project showcase](https://github.com/jquirosv/CimneInternational-Portfolio) ·
 [Architecture](https://github.com/jquirosv/CimneInternational-Portfolio/blob/main/docs/ARCHITECTURE.md)
+
+### [Nimbo](https://github.com/jquirosv/Nimbo-Portfolio)
+
+A native Android music player combining a local library, personalized playback, and listening insights.
+
+- Phone and SD music library, playlists, and background playback.
+- Themes, typography, artwork palettes, and assisted lyrics lookup.
+- Account-separated statistics and daily statistical backups.
+- Monthly stories exported as images or video, with an independent soundtrack.
+
+**Built with:** Kotlin, Jetpack Compose, Media3, WorkManager, SQLite, Python, Flask, and MySQL.
+
+<p>
+  <a href="https://github.com/jquirosv/Nimbo-Portfolio">
+    <img src="https://raw.githubusercontent.com/jquirosv/Nimbo-Portfolio/main/docs/assets/00-cover.svg" alt="Nimbo: Your library. Your listening story." width="640">
+  </a>
+</p>
+
+[Project showcase](https://github.com/jquirosv/Nimbo-Portfolio) ·
+[Architecture](https://github.com/jquirosv/Nimbo-Portfolio/blob/main/docs/ARCHITECTURE.md) ·
+[Engineering decisions](https://github.com/jquirosv/Nimbo-Portfolio/blob/main/docs/ENGINEERING.md)
 
 ### [ChordStream](https://github.com/jquirosv/ChordStream-Portfolio)
 
@@ -86,6 +113,14 @@ Plataforma web para una institución de formación artística. Integra el sitio 
 
 [Visitar el sitio web](https://cimneinternational.com/) ·
 [Ver ficha pública del proyecto](https://github.com/jquirosv/CimneInternational-Portfolio)
+
+### [Nimbo](https://github.com/jquirosv/Nimbo-Portfolio)
+
+Reproductor nativo para Android con biblioteca local, reproducción en segundo plano, temas, tipografías y consulta de letras. Incluye estadísticas por cuenta, respaldos estadísticos diarios y resúmenes mensuales que se comparten como imágenes o video, con audio independiente del reproductor principal.
+
+**Tecnologías:** Kotlin, Jetpack Compose, Media3, WorkManager, SQLite, Python, Flask y MySQL.
+
+[Ver ficha pública del proyecto](https://github.com/jquirosv/Nimbo-Portfolio)
 
 ### [ChordStream](https://github.com/jquirosv/ChordStream-Portfolio)
 
