@@ -84,7 +84,7 @@ An Android songbook for musicians to organize, edit, and perform songs, with a l
 
 <p>
   <a href="https://github.com/jquirosv/ChordStream-Portfolio">
-    <img src="https://raw.githubusercontent.com/jquirosv/ChordStream-Portfolio/main/docs/assets/00_portada_chordstream.png" alt="ChordStream: Android library, live reader, and music editor" width="320">
+    <img src="https://raw.githubusercontent.com/jquirosv/ChordStream-Portfolio/main/docs/assets/00-cover.svg" alt="ChordStream: Your repertoire, ready to play." width="640">
   </a>
 </p>
 
