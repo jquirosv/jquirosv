@@ -22,18 +22,27 @@ I build web and Android applications, working across interfaces, APIs, and datab
 
 ## Featured projects
 
-### CIMNE International
+### [CIMNE International](https://github.com/jquirosv/CimneInternational-Portfolio)
 
 A full-stack web platform for an arts education institution, combining a public website with academic management and artist and event workflows.
 
 - Responsive institutional website and program pages.
-- Student records, enrollment, scheduling, attendance, and makeup lessons.
-- Authentication and role-based access for internal users.
-- Artist and event management through CIMNE Live.
+- Student records, enrollment, scheduling, attendance, makeup lessons, and academic cycles.
+- Tuition records, teacher settlements, repertoire, concerts, and reporting.
+- Role and module permissions, email campaigns, and internal conversations.
+- Artist and event management through CIMNE Live, and the CIMNE Productions catalog.
 
 **Built with:** JavaScript, React, Next.js, Node.js, Tailwind CSS, Prisma, and MySQL.
 
-[Visit the website](https://cimneinternational.com/)
+<p>
+  <a href="https://github.com/jquirosv/CimneInternational-Portfolio">
+    <img src="https://raw.githubusercontent.com/jquirosv/CimneInternational-Portfolio/main/docs/assets/01-projects-public.jpg" alt="CIMNE International: public websites, academic administration, and artistic coordination" width="640">
+  </a>
+</p>
+
+[Visit the website](https://cimneinternational.com/) ·
+[Project showcase](https://github.com/jquirosv/CimneInternational-Portfolio) ·
+[Architecture](https://github.com/jquirosv/CimneInternational-Portfolio/blob/main/docs/ARCHITECTURE.md)
 
 ### [ChordStream](https://github.com/jquirosv/ChordStream-Portfolio)
 
@@ -69,13 +78,14 @@ Desarrollo aplicaciones web y Android, trabajando con interfaces, APIs y bases d
 
 ## Proyectos destacados
 
-### CIMNE International
+### [CIMNE International](https://github.com/jquirosv/CimneInternational-Portfolio)
 
-Plataforma web para una institución de formación artística. Integra el sitio público, la gestión académica de estudiantes, matrículas, horarios y asistencia, y la gestión de artistas y eventos de CIMNE Live.
+Plataforma web para una institución de formación artística. Integra el sitio público, estudiantes, matrículas, horarios, asistencia, ciclos lectivos, pagos, liquidaciones docentes, repertorios, conciertos y comunicaciones. Incluye la gestión de artistas y eventos de CIMNE Live y el catálogo editorial de CIMNE Productions.
 
 **Tecnologías:** JavaScript, React, Next.js, Node.js, Tailwind CSS, Prisma y MySQL.
 
-[Visitar el sitio web](https://cimneinternational.com/)
+[Visitar el sitio web](https://cimneinternational.com/) ·
+[Ver ficha pública del proyecto](https://github.com/jquirosv/CimneInternational-Portfolio)
 
 ### [ChordStream](https://github.com/jquirosv/ChordStream-Portfolio)
 
