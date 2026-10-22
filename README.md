@@ -2,7 +2,7 @@
 
 **Junior Software Developer · Software Engineering Student · Costa Rica**
 
-I build web and Android applications, working across interfaces, APIs, and databases. My projects include an institutional web platform, a digital songbook for musicians, and a native Android music player.
+I build web and Android applications, working across interfaces, APIs, and databases. My projects span institutional management, music tools, and personal organization.
 
 [LinkedIn](https://www.linkedin.com/in/jquirosv/)
 
@@ -20,11 +20,12 @@ Technologies used in my projects:
 | --- | --- |
 | Web | JavaScript, HTML, CSS, React, Next.js, Tailwind CSS |
 | Mobile | Kotlin, Jetpack Compose, Material 3, Dart, Flutter, Provider |
-| Android platform | Media3, WorkManager, coroutines, MediaStore, Android Keystore |
+| Android architecture | ViewModel, StateFlow, coroutines |
+| Android platform | Media3, AlarmManager, WorkManager, MediaStore, Android Keystore |
 | Backend | Python, Flask, Node.js, PHP, Prisma |
-| Databases | MySQL, SQLite |
+| Databases | MySQL, SQLite, Room |
 | Testing | JUnit, Robolectric, Compose tests, Python unittest |
-| Tools and delivery | Git, Gradle, Docker, GitHub Actions |
+| Tools and delivery | Git, Gradle, KSP, Docker, GitHub Actions |
 
 ## Featured projects
 
@@ -70,6 +71,27 @@ A native Android music player combining a local library, personalized playback, 
 [Project showcase](https://github.com/jquirosv/Nimbo-Portfolio) ·
 [Architecture](https://github.com/jquirosv/Nimbo-Portfolio/blob/main/docs/ARCHITECTURE.md) ·
 [Engineering decisions](https://github.com/jquirosv/Nimbo-Portfolio/blob/main/docs/ENGINEERING.md)
+
+### [Véspera Calendar](https://github.com/jquirosv/Vespera-Portfolio)
+
+A native Android calendar bringing together everyday events, annual dates, and personal styles. It shares its visual language and account identity with Nimbo Player.
+
+- Month and agenda views, birthdays, anniversaries, and local reminders.
+- Event and day copies with transactional saving and time-zone handling.
+- Personal colors, 33 offline fonts, and a photo background with opacity and blur.
+- Account-separated Room storage and complete file and remote backups.
+
+**Built with:** Kotlin, Jetpack Compose, Room, ViewModel, StateFlow, AlarmManager, WorkManager, Python, Flask, and MySQL.
+
+<p>
+  <a href="https://github.com/jquirosv/Vespera-Portfolio">
+    <img src="https://raw.githubusercontent.com/jquirosv/Vespera-Portfolio/d169cb45068af73a812abd000e258477ce130af6/docs/assets/00-cover.svg" alt="Véspera Calendar: Your days, your way." width="640">
+  </a>
+</p>
+
+[Project showcase](https://github.com/jquirosv/Vespera-Portfolio) ·
+[Architecture](https://github.com/jquirosv/Vespera-Portfolio/blob/main/docs/ARCHITECTURE.md) ·
+[Engineering decisions](https://github.com/jquirosv/Vespera-Portfolio/blob/main/docs/ENGINEERING.md)
 
 ### [ChordStream](https://github.com/jquirosv/ChordStream-Portfolio)
 
@@ -121,6 +143,14 @@ Reproductor nativo para Android con biblioteca local, reproducción en segundo p
 **Tecnologías:** Kotlin, Jetpack Compose, Media3, WorkManager, SQLite, Python, Flask y MySQL.
 
 [Ver ficha pública del proyecto](https://github.com/jquirosv/Nimbo-Portfolio)
+
+### [Véspera Calendar](https://github.com/jquirosv/Vespera-Portfolio)
+
+Calendario nativo para Android con vista mensual y agenda, cumpleaños, aniversarios y recordatorios locales. Incluye copias de eventos y días con guardado transaccional y manejo de zonas horarias, estilos personales, 33 fuentes sin conexión y foto de fondo con opacidad y desenfoque. Conserva datos Room separados por cuenta y respaldos completos en archivo y remotos. Comparte identidad de cuenta y lenguaje visual con Nimbo Player.
+
+**Tecnologías:** Kotlin, Jetpack Compose, Room, ViewModel, StateFlow, AlarmManager, WorkManager, Python, Flask y MySQL.
+
+[Ver ficha pública del proyecto](https://github.com/jquirosv/Vespera-Portfolio)
 
 ### [ChordStream](https://github.com/jquirosv/ChordStream-Portfolio)
 
