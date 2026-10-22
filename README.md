@@ -50,7 +50,7 @@ A full-stack web platform for an arts education institution, combining a public 
 [Project showcase](https://github.com/jquirosv/CimneInternational-Portfolio) ·
 [Architecture](https://github.com/jquirosv/CimneInternational-Portfolio/blob/main/docs/ARCHITECTURE.md)
 
-### [Nimbo](https://github.com/jquirosv/Nimbo-Portfolio)
+### [Nimbo Player](https://github.com/jquirosv/Nimbo-Portfolio)
 
 A native Android music player combining a local library, personalized playback, and listening insights.
 
@@ -63,7 +63,7 @@ A native Android music player combining a local library, personalized playback, 
 
 <p>
   <a href="https://github.com/jquirosv/Nimbo-Portfolio">
-    <img src="https://raw.githubusercontent.com/jquirosv/Nimbo-Portfolio/main/docs/assets/00-cover.svg" alt="Nimbo: Your library. Your listening story." width="640">
+    <img src="https://raw.githubusercontent.com/jquirosv/Nimbo-Portfolio/main/docs/assets/00-cover.svg" alt="Nimbo Player: Your library. Your listening story." width="640">
   </a>
 </p>
 
@@ -114,7 +114,7 @@ Plataforma web para una institución de formación artística. Integra el sitio 
 [Visitar el sitio web](https://cimneinternational.com/) ·
 [Ver ficha pública del proyecto](https://github.com/jquirosv/CimneInternational-Portfolio)
 
-### [Nimbo](https://github.com/jquirosv/Nimbo-Portfolio)
+### [Nimbo Player](https://github.com/jquirosv/Nimbo-Portfolio)
 
 Reproductor nativo para Android con biblioteca local, reproducción en segundo plano, temas, tipografías y consulta de letras. Incluye estadísticas por cuenta, respaldos estadísticos diarios y resúmenes mensuales que se comparten como imágenes o video, con audio independiente del reproductor principal.
 
