@@ -63,7 +63,7 @@ A native Android music player combining a local library, personalized playback, 
 
 <p>
   <a href="https://github.com/jquirosv/Nimbo-Portfolio">
-    <img src="https://raw.githubusercontent.com/jquirosv/Nimbo-Portfolio/main/docs/assets/00-cover.svg" alt="Nimbo Player: Your library. Your listening story." width="640">
+    <img src="https://raw.githubusercontent.com/jquirosv/Nimbo-Portfolio/bcc0241b44a0d502631a249618f9698cb2357fbc/docs/assets/00-cover.svg" alt="Nimbo Player: Your library. Your listening story." width="640">
   </a>
 </p>
 
